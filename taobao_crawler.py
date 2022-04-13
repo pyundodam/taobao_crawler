@@ -8,7 +8,7 @@ import pandas as pd
 import time
 import datetime
 
-print("기다리세요...")
+print("기다리세요....")
 
 chrome_options = Options()
 chrome_options.add_experimental_option("detach",True)
